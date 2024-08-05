@@ -1,0 +1,6 @@
+bin/
+*.pdf
+*.class
+build/
+.gradle
+.bat
